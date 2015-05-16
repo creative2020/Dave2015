@@ -1,0 +1,1961 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MD – Multipurpose Resume & Portfolio WordPress Theme\n"
+"POT-Creation-Date: 2015-02-15 07:18+0600\n"
+"PO-Revision-Date: 2015-02-15 07:18+0600\n"
+"Last-Translator: rupam <bbuppy@gmail.com>\n"
+"Language-Team: Metrothemes <devmetrothemes@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:6
+msgid "404 <i class=\"icon-frown\"></i>"
+msgstr ""
+
+#: ../404.php:7
+msgid "Opps! Something went wrong..."
+msgstr ""
+
+#: ../404.php:8
+msgid "Page not found. Please continue to our"
+msgstr ""
+
+#: ../archive.php:12
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:14
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:16
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:18
+msgid "Archives"
+msgstr ""
+
+#: ../category.php:10
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:161 ../functions.php:189
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:162 ../functions.php:190
+msgid "Install Plugins"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:163 ../functions.php:191
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:175 ../functions.php:203
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:177
+#: ../class-tgm-plugin-activation.php:1939 ../functions.php:204
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:531
+#: ../class-tgm-plugin-activation.php:2156
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1166
+msgid "Private Repository"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1169
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1174
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1177
+msgid "Required"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1177
+msgid "Recommended"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1180
+msgid "Not Installed"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1182
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1287
+#: ../class-tgm-plugin-activation.php:1395
+msgid "Install"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1309
+#: ../class-tgm-plugin-activation.php:1396
+msgid "Activate"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1358
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1374
+msgid "Plugin"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1375
+msgid "Source"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1376
+msgid "Type"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1377
+msgid "Status"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1922
+msgid "Install package not available."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1923
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1924
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1925
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1926
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1927
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1938
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2052
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2053
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2053
+#: ../class-tgm-plugin-activation.php:2062
+msgid "Show Details"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2053
+#: ../class-tgm-plugin-activation.php:2062
+msgid "Hide Details"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2054
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2055
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2059
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2060
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2062
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2063
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2064
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../comments.php:35 ../comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: ../footer.php:38
+msgid "Recent Posts"
+msgstr ""
+
+#: ../footer.php:69
+msgid "Tag Cloud"
+msgstr ""
+
+#: ../footer.php:81
+msgid "Flickr Photo"
+msgstr ""
+
+#: ../functions.php:192
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:205
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../header-mt.php:20 ../page-template/onepage-v2.php:38
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../single-portfolio.php:176
+msgid "Some Related Projects"
+msgstr ""
+
+#: ../cs-framework/Back-Up/classes/framework.class.php:332
+#: ../cs-framework/classes/framework.class.php:332
+msgid "Settings saved."
+msgstr ""
+
+#: ../cs-framework/Back-Up/classes/framework.class.php:333
+#: ../cs-framework/classes/framework.class.php:333
+msgid "Save"
+msgstr ""
+
+#: ../cs-framework/Back-Up/classes/framework.class.php:333
+#: ../cs-framework/classes/framework.class.php:333
+msgid "Saving..."
+msgstr ""
+
+#: ../cs-framework/Back-Up/classes/framework.class.php:334
+#: ../cs-framework/classes/framework.class.php:334
+msgid "Restore"
+msgstr ""
+
+#: ../cs-framework/Back-Up/classes/framework.class.php:336
+#: ../cs-framework/classes/framework.class.php:336
+msgid "show all options"
+msgstr ""
+
+#: ../cs-framework/Back-Up/classes/options.class.php:123
+#: ../cs-framework/classes/options.class.php:123
+msgid "CONFIG"
+msgstr ""
+
+#: ../cs-framework/Back-Up/classes/options.class.php:129
+#: ../cs-framework/classes/options.class.php:129
+msgid "USAGE"
+msgstr ""
+
+#: ../cs-framework/Back-Up/classes/options.class.php:198
+#: ../cs-framework/classes/options.class.php:198
+#, php-format
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: ../cs-framework/Back-Up/classes/shortcode.class.php:81
+#: ../cs-framework/Back-Up/classes/shortcode.class.php:89
+#: ../cs-framework/Back-Up/fields/textarea/textarea.php:27
+#: ../cs-framework/classes/shortcode.class.php:81
+#: ../cs-framework/classes/shortcode.class.php:89
+#: ../cs-framework/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../cs-framework/Back-Up/classes/shortcode.class.php:91
+#: ../cs-framework/classes/shortcode.class.php:91
+msgid "Select a shortcode"
+msgstr ""
+
+#: ../cs-framework/Back-Up/classes/shortcode.class.php:107
+#: ../cs-framework/classes/shortcode.class.php:107
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:26
+#: ../cs-framework/Back-Up/config/framework.config.php:35
+#: ../cs-framework/config/framework.config.php:26
+#: ../cs-framework/config/framework.config.php:35
+msgid "General Settings"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:42
+#: ../cs-framework/config/framework.config.php:42
+msgid "Here you can configure the general aspects of the theme.!"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:50
+#: ../cs-framework/config/framework.config.php:50
+msgid "Theme Style"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:51
+#: ../cs-framework/config/framework.config.php:51
+msgid "Select Theme Skin color"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:71
+#: ../cs-framework/config/framework.config.php:71
+msgid "Favicon"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:72
+#: ../cs-framework/config/framework.config.php:72
+msgid ""
+"This is the little icon in the address bar for your website Size should be "
+"32x32px"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:82
+#: ../cs-framework/config/framework.config.php:82
+msgid "Site Logo For Home Section"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:83
+#: ../cs-framework/config/framework.config.php:83
+msgid "Logo Size should be 150x150px"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:92
+#: ../cs-framework/config/framework.config.php:92
+msgid "Site Logo"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:93
+#: ../cs-framework/config/framework.config.php:93
+msgid "Logo Size should be 80x80px"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:100
+#: ../cs-framework/config/framework.config.php:100
+msgid "Page used for the blog page"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:101
+#: ../cs-framework/config/framework.config.php:101
+msgid "Blog page for display more blogpage link"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:116
+#: ../cs-framework/Back-Up/config/framework.config.php:124
+#: ../cs-framework/config/framework.config.php:116
+#: ../cs-framework/config/framework.config.php:124
+msgid "Home Settings"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:131
+#: ../cs-framework/config/framework.config.php:131
+msgid "Here you can configure the Home Section of the theme.!"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:139
+#: ../cs-framework/config/framework.config.php:139
+msgid "Avater"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:140
+#: ../cs-framework/config/framework.config.php:140
+msgid "Image Size should be 450x470px"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:148
+#: ../cs-framework/config/framework.config.php:148
+msgid "Your Name"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:149
+#: ../cs-framework/config/framework.config.php:149
+msgid "Add Your Name ,It will display in home section."
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:157
+#: ../cs-framework/config/framework.config.php:157
+msgid "Short title"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:158
+#: ../cs-framework/config/framework.config.php:158
+msgid "Add Short Title About your self ,It will display in home section."
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:167
+#: ../cs-framework/config/framework.config.php:167
+msgid "Home Background Image"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:168
+#: ../cs-framework/config/framework.config.php:168
+msgid "Image Size should be 1920x1024px"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:176
+#: ../cs-framework/config/framework.config.php:176
+msgid "Home Background Color"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:177
+#: ../cs-framework/config/framework.config.php:177
+msgid "Home Section Background Color"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:192
+#: ../cs-framework/Back-Up/config/framework.config.php:199
+#: ../cs-framework/config/framework.config.php:192
+#: ../cs-framework/config/framework.config.php:199
+msgid "About Settings"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:206
+#: ../cs-framework/config/framework.config.php:206
+msgid ""
+"Here you can configure the About Section of the theme.!,you can display them "
+"with shortcode [about-style1] /[about-style2]"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:213
+#: ../cs-framework/config/framework.config.php:213
+msgid "Some Information About You"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:221
+#: ../cs-framework/Back-Up/config/framework.config.php:318
+#: ../cs-framework/Back-Up/config/framework.config.php:873
+#: ../cs-framework/Back-Up/config/framework.config.php:936
+#: ../cs-framework/Back-Up/config/framework.config.php:1040
+#: ../cs-framework/Back-Up/config/framework.config.php:1095
+#: ../cs-framework/Back-Up/config/framework.config.php:1196
+#: ../cs-framework/Back-Up/config/framework.config.php:1282
+#: ../cs-framework/Back-Up/config/framework.config.php:1367
+#: ../cs-framework/Back-Up/config/framework.config.php:1423
+#: ../cs-framework/Back-Up/config/framework.config.php:1499
+#: ../cs-framework/Back-Up/config/framework.config.php:1511
+#: ../cs-framework/Back-Up/config/metabox.config.php:231
+#: ../cs-framework/Back-Up/config/metabox.config.php:254
+#: ../cs-framework/config/framework.config.php:221
+#: ../cs-framework/config/framework.config.php:318
+#: ../cs-framework/config/framework.config.php:873
+#: ../cs-framework/config/framework.config.php:936
+#: ../cs-framework/config/framework.config.php:1040
+#: ../cs-framework/config/framework.config.php:1095
+#: ../cs-framework/config/framework.config.php:1196
+#: ../cs-framework/config/framework.config.php:1282
+#: ../cs-framework/config/framework.config.php:1367
+#: ../cs-framework/config/framework.config.php:1423
+#: ../cs-framework/config/framework.config.php:1499
+#: ../cs-framework/config/framework.config.php:1511
+#: ../cs-framework/config/metabox.config.php:235
+#: ../cs-framework/config/metabox.config.php:258
+msgid "Add Title"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:227
+#: ../cs-framework/Back-Up/config/framework.config.php:894
+#: ../cs-framework/Back-Up/config/framework.config.php:957
+#: ../cs-framework/Back-Up/config/framework.config.php:1061
+#: ../cs-framework/Back-Up/config/framework.config.php:1116
+#: ../cs-framework/Back-Up/config/framework.config.php:1373
+#: ../cs-framework/Back-Up/config/framework.config.php:1429
+#: ../cs-framework/config/framework.config.php:227
+#: ../cs-framework/config/framework.config.php:894
+#: ../cs-framework/config/framework.config.php:957
+#: ../cs-framework/config/framework.config.php:1061
+#: ../cs-framework/config/framework.config.php:1116
+#: ../cs-framework/config/framework.config.php:1373
+#: ../cs-framework/config/framework.config.php:1429
+msgid "Add Details"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:269
+#: ../cs-framework/config/framework.config.php:269
+msgid "Signature"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:270
+#: ../cs-framework/config/framework.config.php:270
+msgid "Add your signature"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:278
+#: ../cs-framework/config/framework.config.php:278
+msgid "Download Button Title "
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:279
+#: ../cs-framework/config/framework.config.php:279
+msgid "Add your Download Button Title "
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:287
+#: ../cs-framework/config/framework.config.php:287
+msgid "Upload Your CV"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:288
+#: ../cs-framework/config/framework.config.php:288
+msgid "Upload your cv/resume for download"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:295
+#: ../cs-framework/config/framework.config.php:295
+msgid "Hobbies & Intersts Title "
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:296
+#: ../cs-framework/config/framework.config.php:296
+msgid "You can change Hobbies & Intersts Title"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:304
+#: ../cs-framework/config/framework.config.php:304
+msgid "HOBBIES & INTERESTS"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:312
+#: ../cs-framework/Back-Up/config/framework.config.php:1190
+#: ../cs-framework/Back-Up/config/framework.config.php:1276
+#: ../cs-framework/Back-Up/config/framework.config.php:1361
+#: ../cs-framework/Back-Up/config/framework.config.php:1417
+#: ../cs-framework/Back-Up/fields/icon/icon.php:25
+#: ../cs-framework/Back-Up/functions/actions.php:47
+#: ../cs-framework/config/framework.config.php:312
+#: ../cs-framework/config/framework.config.php:1190
+#: ../cs-framework/config/framework.config.php:1276
+#: ../cs-framework/config/framework.config.php:1361
+#: ../cs-framework/config/framework.config.php:1417
+#: ../cs-framework/fields/icon/icon.php:25
+#: ../cs-framework/functions/actions.php:47
+msgid "Add Icon"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:378
+#: ../cs-framework/Back-Up/config/framework.config.php:385
+#: ../cs-framework/config/framework.config.php:378
+#: ../cs-framework/config/framework.config.php:385
+msgid "Contact Settings"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:392
+#: ../cs-framework/config/framework.config.php:392
+msgid ""
+"Here you can configure the Contact Section of the theme.!,you can display "
+"them with shortcode [contact]"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:401
+#: ../cs-framework/config/framework.config.php:401
+msgid "Get In Touch Title"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:402
+#: ../cs-framework/config/framework.config.php:402
+msgid "Add your title"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:411
+#: ../cs-framework/config/framework.config.php:411
+msgid "Your Mail Address"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:412
+#: ../cs-framework/config/framework.config.php:412
+msgid "Add your mail address"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:421
+#: ../cs-framework/Back-Up/config/framework.config.php:431
+#: ../cs-framework/config/framework.config.php:421
+#: ../cs-framework/config/framework.config.php:431
+msgid "Your Phone Number"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:422
+#: ../cs-framework/config/framework.config.php:422
+msgid "Add your Phone Number"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:432
+#: ../cs-framework/config/framework.config.php:432
+msgid "Add your address"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:441
+#: ../cs-framework/config/framework.config.php:441
+msgid "Upload your Vcard"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:442
+#: ../cs-framework/config/framework.config.php:442
+msgid "Add your Vcard"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:451
+#: ../cs-framework/config/framework.config.php:451
+msgid "Contact Form Title"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:452
+#: ../cs-framework/config/framework.config.php:452
+msgid "Add Title Contact Form Before "
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:461
+#: ../cs-framework/config/framework.config.php:461
+msgid "Add Contact Form 7 Shortcode "
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:462
+#: ../cs-framework/config/framework.config.php:462
+msgid ""
+"Add Contact Form 7 Shortcode , Example: [contact-form-7 id=\"1131\" title="
+"\"Contact form 1\"] "
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:473
+#: ../cs-framework/config/framework.config.php:473
+msgid "Google Map Address"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:474
+#: ../cs-framework/config/framework.config.php:474
+msgid "Add your address ,Example: Haltern am See, Weseler Str. 151 "
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:488
+#: ../cs-framework/Back-Up/config/framework.config.php:495
+#: ../cs-framework/config/framework.config.php:488
+#: ../cs-framework/config/framework.config.php:495
+msgid "Footer Settings"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:502
+#: ../cs-framework/config/framework.config.php:502
+msgid "Here you can configure the Footer aspects of the theme.!"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:509
+#: ../cs-framework/config/framework.config.php:509
+msgid "Enable Twitter Feed"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:510
+#: ../cs-framework/config/framework.config.php:510
+msgid "You can enable / disable Twitter Feed "
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:519
+#: ../cs-framework/config/framework.config.php:519
+msgid "Twitter Username"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:520
+#: ../cs-framework/config/framework.config.php:520
+msgid "User your twitter username for feed"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:529
+#: ../cs-framework/config/framework.config.php:529
+msgid "Limit"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:530
+#: ../cs-framework/config/framework.config.php:530
+msgid "Twitter Feed limit"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:539
+#: ../cs-framework/config/framework.config.php:539
+msgid "Speed"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:540
+#: ../cs-framework/config/framework.config.php:540
+msgid "Twitter Feed Speed"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:549
+#: ../cs-framework/config/framework.config.php:549
+msgid "Delay"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:550
+#: ../cs-framework/config/framework.config.php:550
+msgid "Twitter Feed Delay"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:559
+#: ../cs-framework/config/framework.config.php:559
+msgid "Recent Post Widget"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:560
+#: ../cs-framework/config/framework.config.php:560
+msgid "How many Recent post you want to display "
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:568
+#: ../cs-framework/config/framework.config.php:568
+msgid "Flickr Id"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:569
+#: ../cs-framework/config/framework.config.php:569
+msgid "use your flickr id for display image feed "
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:577
+#: ../cs-framework/config/framework.config.php:577
+msgid "Number of flickr photos"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:585
+#: ../cs-framework/config/framework.config.php:585
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:586
+#: ../cs-framework/config/framework.config.php:586
+msgid "User Footer copyright text "
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:600
+#: ../cs-framework/config/framework.config.php:600
+msgid "Social Network"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:607
+#: ../cs-framework/config/framework.config.php:607
+msgid "SocialNetwork"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:614
+#: ../cs-framework/config/framework.config.php:614
+msgid "Add your SocialNetwork links"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:622
+#: ../cs-framework/config/framework.config.php:622
+#: ../functions/theme-metabox.php:156
+msgid "Facebook"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:629
+#: ../cs-framework/config/framework.config.php:629
+#: ../functions/theme-metabox.php:163
+msgid "Twitter"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:636
+#: ../cs-framework/config/framework.config.php:636
+#: ../functions/theme-metabox.php:184
+msgid "Linkedin"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:643
+#: ../cs-framework/config/framework.config.php:643
+msgid "Google"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:650
+#: ../cs-framework/config/framework.config.php:650
+msgid "Vimeo"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:657
+#: ../cs-framework/config/framework.config.php:657
+msgid "Github"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:664
+#: ../cs-framework/config/framework.config.php:664
+msgid "Behance"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:671
+#: ../cs-framework/config/framework.config.php:671
+#: ../functions/theme-metabox.php:170
+msgid "Dribbble"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:678
+#: ../cs-framework/config/framework.config.php:678
+msgid "Instagram"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:686
+#: ../cs-framework/config/framework.config.php:686
+msgid "Lastfm"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:693
+#: ../cs-framework/config/framework.config.php:693
+msgid "Rss"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:700
+#: ../cs-framework/config/framework.config.php:700
+msgid "Pinterest"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:707
+#: ../cs-framework/config/framework.config.php:707
+msgid "Skype"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:714
+#: ../cs-framework/config/framework.config.php:714
+msgid "Picassa"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:721
+#: ../cs-framework/config/framework.config.php:721
+msgid "Youtube"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:729
+#: ../cs-framework/config/framework.config.php:729
+msgid "Flickr"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:736
+#: ../cs-framework/config/framework.config.php:736
+msgid "Tumblr"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:744
+#: ../cs-framework/config/framework.config.php:744
+msgid "Blogger"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:752
+#: ../cs-framework/config/framework.config.php:752
+msgid "Delicious"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:759
+#: ../cs-framework/config/framework.config.php:759
+msgid "Digg"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:766
+#: ../cs-framework/config/framework.config.php:766
+msgid "FriendFeed"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:773
+#: ../cs-framework/config/framework.config.php:773
+msgid "WordPress"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:785
+#: ../cs-framework/config/framework.config.php:785
+msgid "OnePage Control"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:792
+#: ../cs-framework/Back-Up/config/framework.config.php:808
+#: ../cs-framework/config/framework.config.php:792
+#: ../cs-framework/config/framework.config.php:808
+msgid "OnePage Sections Control"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:799
+#: ../cs-framework/config/framework.config.php:799
+msgid ""
+"You can manage show and hide pages display in frontpage as a onepage sections"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:816
+#: ../cs-framework/config/framework.config.php:816
+msgid "Choose which pages you want in the HomePage."
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:826
+#: ../cs-framework/Back-Up/config/framework.config.php:833
+#: ../cs-framework/config/framework.config.php:826
+#: ../cs-framework/config/framework.config.php:833
+msgid "Work Experience"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:840
+#: ../cs-framework/config/framework.config.php:840
+msgid ""
+"Add your Work Experience ,you can display them with shortcode [wexperience]"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:847
+#: ../cs-framework/Back-Up/config/framework.config.php:1014
+#: ../cs-framework/config/framework.config.php:847
+#: ../cs-framework/config/framework.config.php:1014
+msgid "Timeline Title"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:848
+#: ../cs-framework/config/framework.config.php:848
+msgid "Example: Experience"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:856
+#: ../cs-framework/Back-Up/config/framework.config.php:1023
+#: ../cs-framework/config/framework.config.php:856
+#: ../cs-framework/config/framework.config.php:1023
+msgid "Timeline Icon"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:864
+#: ../cs-framework/Back-Up/config/framework.config.php:1031
+#: ../cs-framework/config/framework.config.php:864
+#: ../cs-framework/config/framework.config.php:1031
+msgid "Left Side"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:865
+#: ../cs-framework/Back-Up/config/framework.config.php:1032
+#: ../cs-framework/config/framework.config.php:865
+#: ../cs-framework/config/framework.config.php:1032
+msgid "It will display your work expreience to left side"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:874
+#: ../cs-framework/Back-Up/config/framework.config.php:937
+#: ../cs-framework/config/framework.config.php:874
+#: ../cs-framework/config/framework.config.php:937
+msgid "Example: SENIOR DEVELOPER"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:880
+#: ../cs-framework/Back-Up/config/framework.config.php:943
+#: ../cs-framework/Back-Up/config/framework.config.php:1047
+#: ../cs-framework/Back-Up/config/framework.config.php:1102
+#: ../cs-framework/config/framework.config.php:880
+#: ../cs-framework/config/framework.config.php:943
+#: ../cs-framework/config/framework.config.php:1047
+#: ../cs-framework/config/framework.config.php:1102
+msgid "Add Company Name"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:881
+#: ../cs-framework/Back-Up/config/framework.config.php:944
+#: ../cs-framework/config/framework.config.php:881
+#: ../cs-framework/config/framework.config.php:944
+msgid "Example: Apple Inc"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:887
+#: ../cs-framework/Back-Up/config/framework.config.php:950
+#: ../cs-framework/Back-Up/config/framework.config.php:1054
+#: ../cs-framework/Back-Up/config/framework.config.php:1109
+#: ../cs-framework/config/framework.config.php:887
+#: ../cs-framework/config/framework.config.php:950
+#: ../cs-framework/config/framework.config.php:1054
+#: ../cs-framework/config/framework.config.php:1109
+msgid "Add Duration"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:888
+#: ../cs-framework/Back-Up/config/framework.config.php:951
+#: ../cs-framework/Back-Up/config/framework.config.php:1055
+#: ../cs-framework/Back-Up/config/framework.config.php:1110
+#: ../cs-framework/config/framework.config.php:888
+#: ../cs-framework/config/framework.config.php:951
+#: ../cs-framework/config/framework.config.php:1055
+#: ../cs-framework/config/framework.config.php:1110
+msgid "Example: 2012 - Current"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:927
+#: ../cs-framework/Back-Up/config/framework.config.php:1086
+#: ../cs-framework/config/framework.config.php:927
+#: ../cs-framework/config/framework.config.php:1086
+msgid "Right Side"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:928
+#: ../cs-framework/Back-Up/config/framework.config.php:1087
+#: ../cs-framework/config/framework.config.php:928
+#: ../cs-framework/config/framework.config.php:1087
+msgid "It will display your work expreience to Right side"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:992
+#: ../cs-framework/Back-Up/config/framework.config.php:999
+#: ../cs-framework/config/framework.config.php:992
+#: ../cs-framework/config/framework.config.php:999
+msgid "Education Experience"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1006
+#: ../cs-framework/config/framework.config.php:1006
+msgid ""
+"Add your Education Experience ,you can display them with shortcode "
+"[eexperience]"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1015
+#: ../cs-framework/config/framework.config.php:1015
+msgid "Example: Education"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1041
+#: ../cs-framework/config/framework.config.php:1041
+msgid "Example: Phd Computer Science"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1048
+#: ../cs-framework/Back-Up/config/framework.config.php:1103
+#: ../cs-framework/config/framework.config.php:1048
+#: ../cs-framework/config/framework.config.php:1103
+msgid "Example: stanford university"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1096
+#: ../cs-framework/config/framework.config.php:1096
+msgid "Example: Graduation"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1152
+#: ../cs-framework/config/framework.config.php:1152
+msgid "Contents"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1160
+#: ../cs-framework/config/framework.config.php:1160
+msgid "Milestones"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1167
+#: ../cs-framework/Back-Up/config/framework.config.php:1182
+#: ../cs-framework/config/framework.config.php:1167
+#: ../cs-framework/config/framework.config.php:1182
+msgid "Milestones Achieved"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1174
+#: ../cs-framework/config/framework.config.php:1174
+msgid ""
+"Add your Milestones Achieved ,you can display them with shortcode "
+"[milestones]"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1202
+#: ../cs-framework/config/framework.config.php:1202
+msgid "Add Number"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1246
+#: ../cs-framework/Back-Up/config/framework.config.php:1253
+#: ../cs-framework/Back-Up/config/framework.config.php:1268
+#: ../cs-framework/config/framework.config.php:1246
+#: ../cs-framework/config/framework.config.php:1253
+#: ../cs-framework/config/framework.config.php:1268
+msgid "Work Process"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1260
+#: ../cs-framework/config/framework.config.php:1260
+msgid ""
+"Add your Work Process System ,you can display them with shortcode "
+"[work_process]"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1331
+#: ../cs-framework/Back-Up/config/framework.config.php:1338
+#: ../cs-framework/config/framework.config.php:1331
+#: ../cs-framework/config/framework.config.php:1338
+msgid "Services"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1345
+#: ../cs-framework/config/framework.config.php:1345
+msgid "Add your services ,you can display them with shortcode [services]"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1353
+#: ../cs-framework/config/framework.config.php:1353
+msgid "Left Side Services"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1409
+#: ../cs-framework/config/framework.config.php:1409
+msgid "Right Side Services"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1467
+#: ../cs-framework/Back-Up/config/framework.config.php:1474
+#: ../cs-framework/Back-Up/config/framework.config.php:1489
+#: ../cs-framework/config/framework.config.php:1467
+#: ../cs-framework/config/framework.config.php:1474
+#: ../cs-framework/config/framework.config.php:1489
+msgid "Skills"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1481
+#: ../cs-framework/config/framework.config.php:1481
+msgid "Add your Skills ,you can display them with shortcode [skills]"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1505
+#: ../cs-framework/config/framework.config.php:1505
+msgid "Add number"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1578
+#: ../cs-framework/Back-Up/config/framework.config.php:1585
+#: ../cs-framework/Back-Up/config/framework.config.php:1600
+#: ../cs-framework/config/framework.config.php:1578
+#: ../cs-framework/config/framework.config.php:1585
+#: ../cs-framework/config/framework.config.php:1600
+msgid "Testimonials"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1592
+#: ../cs-framework/config/framework.config.php:1592
+msgid ""
+"Add Clients Testimonials ,you can display them with shortcode [testimonials]"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1608
+#: ../cs-framework/config/framework.config.php:1608
+msgid "Author Avater"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1614
+#: ../cs-framework/config/framework.config.php:1614
+msgid "Author Name"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1620
+#: ../cs-framework/config/framework.config.php:1620
+msgid "Author Comment"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1626
+#: ../cs-framework/config/framework.config.php:1626
+msgid "Author Website"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1627
+#: ../cs-framework/config/framework.config.php:1627
+msgid "Example: metrothemes.me "
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1667
+#: ../cs-framework/Back-Up/config/framework.config.php:1674
+#: ../cs-framework/Back-Up/config/framework.config.php:1690
+#: ../cs-framework/config/framework.config.php:1667
+#: ../cs-framework/config/framework.config.php:1674
+#: ../cs-framework/config/framework.config.php:1690
+msgid "Clients Logo"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1681
+#: ../cs-framework/config/framework.config.php:1681
+msgid ""
+"Add your Clients Logo ,you can display them with shortcode [clients_logo]"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1698
+#: ../cs-framework/config/framework.config.php:1698
+msgid "Add logo"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1699
+#: ../cs-framework/config/framework.config.php:1699
+msgid "Logo size 212x125px recommended"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1705
+#: ../cs-framework/config/framework.config.php:1705
+msgid "Add Client Name"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1711
+#: ../cs-framework/config/framework.config.php:1711
+msgid "Add Client Website Url"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1712
+#: ../cs-framework/config/framework.config.php:1712
+msgid "example: http://metrothemes.me"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1760
+#: ../cs-framework/Back-Up/config/framework.config.php:1767
+#: ../cs-framework/config/framework.config.php:1760
+#: ../cs-framework/config/framework.config.php:1767
+msgid "Code Integration"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1774
+#: ../cs-framework/config/framework.config.php:1774
+msgid ""
+"You can your custom javascript and css code here also google analytics code"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1781
+#: ../cs-framework/config/framework.config.php:1781
+msgid "Custom Css Code"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1782
+#: ../cs-framework/config/framework.config.php:1782
+msgid "Custom css code for theme"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1790
+#: ../cs-framework/config/framework.config.php:1790
+msgid "Custom Js Code"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1791
+#: ../cs-framework/config/framework.config.php:1791
+msgid "Custom Js code for theme"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1806
+#: ../cs-framework/config/framework.config.php:1806
+msgid "Typography"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1813
+#: ../cs-framework/config/framework.config.php:1813
+msgid "Theme Customiztion"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1820
+#: ../cs-framework/config/framework.config.php:1820
+msgid ""
+"You can customize your theme font family and size from here ,you need to "
+"enable first the customization settings"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1827
+#: ../cs-framework/config/framework.config.php:1827
+msgid "Enable Typography Customizer"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1828
+#: ../cs-framework/config/framework.config.php:1828
+msgid "You can enable / disable your customizer"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1834
+#: ../cs-framework/config/framework.config.php:1834
+msgid "Body Font Family"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1841
+#: ../cs-framework/config/framework.config.php:1841
+msgid "Body Font Size"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1849
+#: ../cs-framework/config/framework.config.php:1849
+msgid "Heading Font Family"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1857
+#: ../cs-framework/config/framework.config.php:1857
+msgid "H1 Font Size"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1865
+#: ../cs-framework/config/framework.config.php:1865
+msgid "H2 Font Size"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1873
+#: ../cs-framework/config/framework.config.php:1873
+msgid "H3 Font Size"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1881
+#: ../cs-framework/config/framework.config.php:1881
+msgid "H4 Font Size"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1889
+#: ../cs-framework/config/framework.config.php:1889
+msgid "H5 Font Size"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1897
+#: ../cs-framework/config/framework.config.php:1897
+msgid "H6 Font Size"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1911
+#: ../cs-framework/config/framework.config.php:1911
+msgid "Backup"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/framework.config.php:1936
+#: ../cs-framework/config/framework.config.php:1936
+msgid "Support"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:16
+#: ../cs-framework/config/metabox.config.php:16
+msgid "Page Options"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:26
+#: ../cs-framework/config/metabox.config.php:26
+msgid "Page Information"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:34
+#: ../cs-framework/config/metabox.config.php:34
+msgid "Section Title"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:35
+#: ../cs-framework/config/metabox.config.php:35
+msgid "This is section Title"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:41
+#: ../cs-framework/config/metabox.config.php:41
+msgid "Short description"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:42
+#: ../cs-framework/config/metabox.config.php:42
+msgid "Short description about this section"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:53
+#: ../cs-framework/config/metabox.config.php:53
+msgid "Page Customize"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:58
+#: ../cs-framework/Back-Up/config/metabox.config.php:152
+#: ../cs-framework/config/metabox.config.php:58
+#: ../cs-framework/config/metabox.config.php:156
+msgid "Background Color"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:59
+#: ../cs-framework/Back-Up/config/metabox.config.php:153
+#: ../cs-framework/config/metabox.config.php:59
+#: ../cs-framework/config/metabox.config.php:157
+msgid "Page Background Color"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:66
+#: ../cs-framework/Back-Up/config/metabox.config.php:160
+#: ../cs-framework/config/metabox.config.php:66
+#: ../cs-framework/config/metabox.config.php:164
+msgid "Background Image"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:67
+#: ../cs-framework/Back-Up/config/metabox.config.php:161
+#: ../cs-framework/config/metabox.config.php:67
+#: ../cs-framework/config/metabox.config.php:165
+msgid "Page Background Image"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:74
+#: ../cs-framework/Back-Up/config/metabox.config.php:168
+#: ../cs-framework/config/metabox.config.php:74
+#: ../cs-framework/config/metabox.config.php:172
+msgid "Text Color"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:75
+#: ../cs-framework/Back-Up/config/metabox.config.php:169
+#: ../cs-framework/config/metabox.config.php:75
+#: ../cs-framework/config/metabox.config.php:173
+msgid ""
+"Select color for section Text Color it will also allow to section heading "
+"color also "
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:81
+#: ../cs-framework/Back-Up/config/metabox.config.php:175
+#: ../cs-framework/config/metabox.config.php:81
+#: ../cs-framework/config/metabox.config.php:179
+msgid "Padding"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:82
+#: ../cs-framework/Back-Up/config/metabox.config.php:176
+#: ../cs-framework/config/metabox.config.php:82
+#: ../cs-framework/config/metabox.config.php:180
+msgid "Set your section padding"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:102
+#: ../cs-framework/config/metabox.config.php:102
+msgid "Separator Options"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:112
+#: ../cs-framework/Back-Up/config/metabox.config.php:133
+#: ../cs-framework/config/metabox.config.php:112
+#: ../cs-framework/config/metabox.config.php:133
+msgid "Separator Content"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:126
+#: ../cs-framework/config/metabox.config.php:126
+msgid "Separator Title"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:127
+#: ../cs-framework/config/metabox.config.php:127
+msgid "This is Separator Title"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:134
+#: ../cs-framework/config/metabox.config.php:134
+msgid "Separator Content this section"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:147
+#: ../cs-framework/config/metabox.config.php:151
+msgid "Separator Customize"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:196
+#: ../cs-framework/config/metabox.config.php:200
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:209
+#: ../cs-framework/config/metabox.config.php:213
+msgid "Project Type"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:223
+#: ../cs-framework/config/metabox.config.php:227
+msgid "Project Images"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:224
+#: ../cs-framework/config/metabox.config.php:228
+msgid "Add New Image"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:225
+#: ../cs-framework/config/metabox.config.php:229
+msgid "Project Image"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:236
+#: ../cs-framework/Back-Up/config/metabox.config.php:259
+#: ../cs-framework/config/metabox.config.php:240
+#: ../cs-framework/config/metabox.config.php:263
+msgid "Upload Image"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:246
+#: ../cs-framework/config/metabox.config.php:250
+msgid "Project Slider"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:247
+#: ../cs-framework/config/metabox.config.php:251
+msgid "Add New Slide"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:248
+#: ../cs-framework/config/metabox.config.php:252
+msgid "Project Slide"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:269
+#: ../cs-framework/config/metabox.config.php:273
+msgid "Add Project Video"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:270
+#: ../cs-framework/config/metabox.config.php:274
+msgid ""
+"If you are using video from somewhere like YouTube, Vimeo etc... Please "
+"paste the embed code here. Width should be at least 100% with any height."
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:282
+#: ../cs-framework/config/metabox.config.php:286
+msgid "Client Name"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:283
+#: ../cs-framework/config/metabox.config.php:287
+msgid "Client who the project was for"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:290
+#: ../cs-framework/config/metabox.config.php:294
+msgid "Project Checklist"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:291
+#: ../cs-framework/config/metabox.config.php:295
+msgid ""
+"Create a checklist of skills or tools used on the project\n"
+"(ie; Canon EOS 5D, Branding, Responsive Design, WordPress etc...)"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:299
+#: ../cs-framework/config/metabox.config.php:303
+msgid "Project Date"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:300
+#: ../cs-framework/config/metabox.config.php:304
+msgid "Enter the date the project was completed"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:307
+#: ../cs-framework/config/metabox.config.php:311
+msgid "Project URL"
+msgstr ""
+
+#: ../cs-framework/Back-Up/config/metabox.config.php:308
+#: ../cs-framework/config/metabox.config.php:312
+msgid "Enter the URL for this project"
+msgstr ""
+
+#: ../cs-framework/Back-Up/fields/background/background.php:31
+#: ../cs-framework/Back-Up/fields/background/background.php:32
+#: ../cs-framework/Back-Up/fields/upload/upload.php:23
+#: ../cs-framework/Back-Up/fields/upload/upload.php:24
+#: ../cs-framework/fields/background/background.php:31
+#: ../cs-framework/fields/background/background.php:32
+#: ../cs-framework/fields/upload/upload.php:23
+#: ../cs-framework/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: ../cs-framework/Back-Up/fields/background/background.php:33
+#: ../cs-framework/Back-Up/fields/upload/upload.php:25
+#: ../cs-framework/fields/background/background.php:33
+#: ../cs-framework/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: ../cs-framework/Back-Up/fields/backup/backup.php:21
+#: ../cs-framework/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: ../cs-framework/Back-Up/fields/backup/backup.php:22
+#: ../cs-framework/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: ../cs-framework/Back-Up/fields/backup/backup.php:27
+#: ../cs-framework/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: ../cs-framework/Back-Up/fields/backup/backup.php:28
+#: ../cs-framework/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: ../cs-framework/Back-Up/fields/backup/backup.php:29
+#: ../cs-framework/fields/backup/backup.php:29
+msgid "!!! Reset All Options !!!"
+msgstr ""
+
+#: ../cs-framework/Back-Up/fields/backup/backup.php:30
+#: ../cs-framework/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: ../cs-framework/Back-Up/fields/group/group.php:21
+#: ../cs-framework/fields/group/group.php:21
+msgid "Adding"
+msgstr ""
+
+#: ../cs-framework/Back-Up/fields/group/group.php:33
+#: ../cs-framework/Back-Up/fields/group/group.php:65
+#: ../cs-framework/fields/group/group.php:33
+#: ../cs-framework/fields/group/group.php:65
+msgid "Remove"
+msgstr ""
+
+#: ../cs-framework/Back-Up/fields/icon/icon.php:26
+#: ../cs-framework/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: ../cs-framework/Back-Up/fields/switcher/switcher.php:20
+#: ../cs-framework/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: ../cs-framework/Back-Up/fields/switcher/switcher.php:20
+#: ../cs-framework/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: ../cs-framework/Back-Up/fields/typography/typography.php:70
+#: ../cs-framework/fields/typography/typography.php:70
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: ../cs-framework/Back-Up/functions/actions.php:48
+#: ../cs-framework/functions/actions.php:48
+msgid "Search a Icon..."
+msgstr ""
+
+#: ../cs-framework/Back-Up/functions/actions.php:49
+#: ../cs-framework/functions/actions.php:49
+msgid "Loading..."
+msgstr ""
+
+#: ../cs-framework/Back-Up/functions/helpers.php:297
+#: ../cs-framework/functions/helpers.php:297
+msgid "This field class is not available!"
+msgstr ""
+
+#: ../cs-framework/Back-Up/functions/validate.php:14
+#: ../cs-framework/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: ../cs-framework/Back-Up/functions/validate.php:33
+#: ../cs-framework/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: ../cs-framework/Back-Up/functions/validate.php:51
+#: ../cs-framework/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: ../functions/theme-metabox.php:25
+msgid "Quote post options"
+msgstr ""
+
+#: ../functions/theme-metabox.php:33
+msgid "Quote"
+msgstr ""
+
+#: ../functions/theme-metabox.php:34
+msgid "Insert your quote"
+msgstr ""
+
+#: ../functions/theme-metabox.php:40
+msgid "Quote Author"
+msgstr ""
+
+#: ../functions/theme-metabox.php:41
+msgid "Quote AUthor Name"
+msgstr ""
+
+#: ../functions/theme-metabox.php:53
+msgid "Video post options"
+msgstr ""
+
+#: ../functions/theme-metabox.php:61
+msgid "Video Embed Code"
+msgstr ""
+
+#: ../functions/theme-metabox.php:62
+msgid "Insert your video EMbed code from youtube or vimeo ,give width 100%"
+msgstr ""
+
+#: ../functions/theme-metabox.php:75
+msgid "Gallery post options"
+msgstr ""
+
+#: ../functions/theme-metabox.php:83
+msgid "Add Gallery Image"
+msgstr ""
+
+#: ../functions/theme-metabox.php:84
+msgid "Upload Image for Gallery post"
+msgstr ""
+
+#: ../functions/theme-metabox.php:99
+msgid "Audio post options"
+msgstr ""
+
+#: ../functions/theme-metabox.php:107
+msgid "Audio Shortcode Code"
+msgstr ""
+
+#: ../functions/theme-metabox.php:108
+msgid ""
+"Add Audio Shortcode   [audio mp3=\"http://metrothemes.me/upload/song.mp3\"][/"
+"audio]"
+msgstr ""
+
+#: ../functions/theme-metabox.php:124
+msgid "Membar Options"
+msgstr ""
+
+#: ../functions/theme-metabox.php:132
+msgid "Add Avater"
+msgstr ""
+
+#: ../functions/theme-metabox.php:133
+msgid "Image Size should be 300x300px"
+msgstr ""
+
+#: ../functions/theme-metabox.php:138
+msgid "Name"
+msgstr ""
+
+#: ../functions/theme-metabox.php:139
+msgid "Membar Name"
+msgstr ""
+
+#: ../functions/theme-metabox.php:146
+msgid "Job"
+msgstr ""
+
+#: ../functions/theme-metabox.php:147
+msgid "What he/she do"
+msgstr ""
+
+#: ../functions/theme-metabox.php:157
+msgid "Facebook Profile url"
+msgstr ""
+
+#: ../functions/theme-metabox.php:164
+msgid "Twitter Profile url"
+msgstr ""
+
+#: ../functions/theme-metabox.php:171
+msgid "Dribbble Profile url"
+msgstr ""
+
+#: ../functions/theme-metabox.php:177
+msgid "Google Plus"
+msgstr ""
+
+#: ../functions/theme-metabox.php:178
+msgid "Google Plus Profile url"
+msgstr ""
+
+#: ../functions/theme-metabox.php:185
+msgid "Linkedin Profile url"
+msgstr ""
+
+#: ../functions/theme-metabox.php:206
+msgid "Pricetable Options"
+msgstr ""
+
+#: ../functions/theme-metabox.php:214
+msgid "Package Name"
+msgstr ""
+
+#: ../functions/theme-metabox.php:215
+msgid "Pricetable Package Name"
+msgstr ""
+
+#: ../functions/theme-metabox.php:221
+msgid "Package Type"
+msgstr ""
+
+#: ../functions/theme-metabox.php:222
+msgid "Select your Package Type"
+msgstr ""
+
+#: ../functions/theme-metabox.php:235
+msgid "Package Price"
+msgstr ""
+
+#: ../functions/theme-metabox.php:236
+msgid "Pricetable Package Price , Example: <span>$</span>29"
+msgstr ""
+
+#: ../functions/theme-metabox.php:242
+msgid "Package Time"
+msgstr ""
+
+#: ../functions/theme-metabox.php:243
+msgid "Pricetable Package Time , Example: monthly/year"
+msgstr ""
+
+#: ../functions/theme-metabox.php:250
+msgid "Package Features"
+msgstr ""
+
+#: ../functions/theme-metabox.php:251
+msgid "Pricetable Package Features, Example: <span>1 Hosting</span> For Free"
+msgstr ""
+
+#: ../functions/theme-metabox.php:260
+msgid "Package Url"
+msgstr ""
+
+#: ../functions/theme-metabox.php:261
+msgid ""
+"Pricetable Package Purchase Url ,  Example:  http://yourclientwebsite.com  "
+msgstr ""
+
+#: ../functions/theme-metro.php:238
+msgid "Footer Left"
+msgstr ""
+
+#: ../functions/theme-metro.php:249
+msgid "Footer Middle"
+msgstr ""
+
+#: ../functions/theme-metro.php:260
+msgid "Footer Right"
+msgstr ""
+
+#: ../functions/widgets/dribbble_widget.php:14
+msgid "Display your latest Dribbble shots"
+msgstr ""
+
+#: ../functions/widgets/dribbble_widget.php:16
+msgid "Metro Dribbble Shots"
+msgstr ""
+
+#: ../functions/widgets/dribbble_widget.php:75
+msgid "Please check your dribbble username"
+msgstr ""
+
+#: ../functions/widgets/dribbble_widget.php:118
+msgid "Dribbble Shots"
+msgstr ""
+
+#: ../functions/widgets/dribbble_widget.php:129
+#: ../functions/widgets/flickr_widget.php:87
+#: ../functions/widgets/twitter-widget.php:67
+msgid "Title:"
+msgstr ""
+
+#: ../functions/widgets/dribbble_widget.php:134
+#: ../functions/widgets/twitter-widget.php:71
+msgid "Username:"
+msgstr ""
+
+#: ../functions/widgets/dribbble_widget.php:139
+msgid "Number of shots to show:"
+msgstr ""
+
+#: ../functions/widgets/dribbble_widget.php:145
+msgid "Open links in new window?"
+msgstr ""
+
+#: ../functions/widgets/flickr_widget.php:15
+msgid "Display your latest Flickr photos"
+msgstr ""
+
+#: ../functions/widgets/flickr_widget.php:17
+msgid "Metro Flickr Photos"
+msgstr ""
+
+#: ../functions/widgets/flickr_widget.php:77
+msgid "Flickr Photos"
+msgstr ""
+
+#: ../functions/widgets/flickr_widget.php:92
+msgid "Your Flickr User ID:"
+msgstr ""
+
+#: ../functions/widgets/flickr_widget.php:94
+#, php-format
+msgid "Head over to %s to find your Flickr user ID."
+msgstr ""
+
+#: ../functions/widgets/flickr_widget.php:98
+msgid "Number of photos to show:"
+msgstr ""
+
+#: ../functions/widgets/twitter-widget.php:13
+msgid "Metrothemes - Twitter Stream"
+msgstr ""
+
+#: ../functions/widgets/twitter-widget.php:75
+msgid "Limit:"
+msgstr ""
+
+#: ../inc/metabox/classes.fields.php:1011
+msgid "Type to search"
+msgstr ""
+
+#: ../page-template/onepage_v1.php:23
+msgid "Menu"
+msgstr ""

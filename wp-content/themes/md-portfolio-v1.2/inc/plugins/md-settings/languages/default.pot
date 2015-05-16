@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Applause Ultimate Playlist Manager WP Plugin\n"
+"POT-Creation-Date: 2014-04-27 03:01+0600\n"
+"PO-Revision-Date: 2014-04-27 03:01+0600\n"
+"Last-Translator: rupam <bbuppy@gmail.com>\n"
+"Language-Team: MetroThemes <devmetrothemes@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;__();_e()\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../applause-playlist-manager.php:27 ../applause-playlist-manager.php:28
+#: ../applause-playlist-manager.php:37
+msgid "Playlist"
+msgstr ""
+
+#: ../applause-playlist-manager.php:29
+msgid "Add Playlist"
+msgstr ""
+
+#: ../applause-playlist-manager.php:30
+msgid "Edit Playlist"
+msgstr ""
+
+#: ../applause-playlist-manager.php:31
+msgid "New Playlist"
+msgstr ""
+
+#: ../applause-playlist-manager.php:32
+msgid "View Playlist"
+msgstr ""
+
+#: ../applause-playlist-manager.php:33
+msgid "Search Playlist"
+msgstr ""
+
+#: ../applause-playlist-manager.php:34
+msgid "No Playlist Found"
+msgstr ""
+
+#: ../applause-playlist-manager.php:35
+msgid "No Playlist Found in Trash"
+msgstr ""
+
+#: ../applause-playlist-manager.php:36
+msgid "Parent Playlist"
+msgstr ""
+
+#: ../applause-playlist-manager.php:87
+msgid "Playlist Background Color"
+msgstr ""
+
+#: ../applause-playlist-manager.php:95
+msgid "Tracks Title Color"
+msgstr ""
+
+#: ../applause-playlist-manager.php:103
+msgid "Tracks Author Color"
+msgstr ""
+
+#: ../applause-playlist-manager.php:112
+msgid "Player Progress Bar Color"
+msgstr ""
+
+#: ../applause-playlist-manager.php:120
+msgid "Player Progress Bar After Color"
+msgstr ""
+
+#: ../applause-playlist-manager.php:128
+msgid "Playlist column size"
+msgstr ""
+
+#: ../applause-playlist-manager.php:160
+msgid "Playlist Manager"
+msgstr ""
+
+#: ../applause-playlist-manager.php:169
+msgid "Add Audio Tracks & Details"
+msgstr ""
+
+#: ../applause-playlist-manager.php:178
+msgid "Audio Track Title"
+msgstr ""
+
+#: ../applause-playlist-manager.php:187
+msgid "Audio Track Author"
+msgstr ""
+
+#: ../applause-playlist-manager.php:195
+msgid "Upload A Audio track Image"
+msgstr ""
+
+#: ../applause-playlist-manager.php:205
+msgid "Upload A .mp3 Audio track"
+msgstr ""
+
+#: ../applause-playlist-manager.php:212
+msgid "Upload A .ogg Audio track"
+msgstr ""
+
+#: ../applause-playlist-manager.php:236
+msgid "Playlist Name"
+msgstr ""
+
+#: ../applause-playlist-manager.php:237 ../applause-playlist-manager.php:238
+msgid "Playlist Shortcode"
+msgstr ""
+
+#: ../metabox/classes.fields.php:1011
+msgid "Type to search"
+msgstr ""
